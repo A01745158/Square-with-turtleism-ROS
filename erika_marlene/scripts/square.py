@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# author : Sumanth Nethi
 import rospy
 from geometry_msgs.msg import Twist
 import sys
